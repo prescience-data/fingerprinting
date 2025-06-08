@@ -1,8 +1,7 @@
 title: Browser Fingerprinting
-description: Reference sheets for browser APIs used in browser fingerprinting.
+description: Reference sheets for Chrome browser APIs used in browser fingerprinting.
 theme: just-the-docs
 
-url: https://fingerprinting.github.io
+url: https://prescience-data.github.io/fingerprinting
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
